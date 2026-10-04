@@ -72,3 +72,7 @@ The analysis suggests that the business could:
 ## Project Type
 
 Data Analysis | Descriptive Analysis | Diagnostic Analysis
+
+## Dataset Source
+
+The dataset used in this project was obtained from Kaggle.
