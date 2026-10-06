@@ -46,11 +46,26 @@ I investigated important patterns identified during the descriptive analysis, in
 
 ## Key Findings
 
-- Electronics was the strongest-performing category, with the highest total sales, average order value, and average profit margin.
-- The South region generated the highest total sales, while the West had the highest average order value.
-- The decline in sales from 2024 Q2 to Q3 was primarily associated with weaker Electronics performance, including fewer orders and lower average order value.
-- Grocery was the only category with a negative average profit margin.
-- Lower-priced Grocery products had a higher shipping cost relative to product price, which was associated with negative profitability.
+1. **Electronics was the strongest category.** It generated the highest total sales (about 3.32M, over half of all sales), the highest average order value (537.09), and the highest average profit margin (55.72).
+
+2. **The South region had the highest total sales (about 1.30M), driven by order volume.** The West had the highest average order value (174.26), even with fewer orders than the South.
+
+3. **Sales fell 10.4% from 2024 Q2 to Q3 (764,627 to 684,857), even though orders rose slightly (4,244 to 4,297).** Electronics drove the drop. Its sales fell 17.9%, with orders down from 763 to 721 and average order value down from 582.81 to 506.23. Average discounts stayed broadly stable.
+
+4. **Grocery was the only category with a negative average profit margin (-2.26).** It also had the lowest average order value (20.21), and 97.7% of Grocery orders were priced below 50.
+
+5. **Shipping cost took a much bigger share of price on cheap Grocery items.**
+
+| Price group | Orders | Avg profit margin | Shipping / price |
+|---|---|---|---|
+| 0-5 | 1,081 | -1.95 | 0.85 |
+| 5-10 | 905 | -2.59 | 0.47 |
+| 10-20 | 1,101 | -2.76 | 0.31 |
+| 20-50 | 877 | -2.02 | 0.19 |
+| 50-100 | 91 | 0.22 | 0.11 |
+| 100-150 | 3 | 18.04 | 0.07 |
+
+Only the orders above 50 broke even, and those are just 2.3% of Grocery orders.
 
 ## Recommendations
 
